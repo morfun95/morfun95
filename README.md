@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm the Founder and CEO of [DreamerAI](https://dreamerai.com), a startup focused on building the next generation of AI tools for creative expression. Based in the United States, I'm a serial entrepreneur with experience from top tech companies and prestigious educational institutions.
+I'm the Founder and CEO of [DreamerAI](https://aitale.me/), a startup focused on building the next generation of AI tools for creative expression. Based in the United States, I'm a serial entrepreneur with experience from top tech companies and prestigious educational institutions.
 
 My passion lies at the intersection of artificial intelligence and human creativity, particularly in generative AI technologies that empower people to express themselves in new ways.
 
